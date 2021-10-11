@@ -1,4 +1,6 @@
-puts "Caleb in verry strong";
+name = "calebee";
+
+puts " @Caleb in verry strong";
 puts "Caleb is 20";
-print "Caleb like helping people";
-print "He is in love with programming"
+puts "Caleb like helping people";
+puts "He is in love with programming"

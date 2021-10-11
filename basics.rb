@@ -10,6 +10,8 @@ def calculat(num1, opar, num2)
         return num1+num2
     elsif opar === '-' 
         num1-num2
+    else
+        "You enter wrong operator"
     end
 end
 

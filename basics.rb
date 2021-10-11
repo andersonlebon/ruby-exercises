@@ -7,3 +7,6 @@ puts "Caleb like helping people";
 puts "He is in love with programming"
 puts name.strip()
 puts (((number.abs() / 11.0).round()) *20 /7.0).floor()
+puts "Hello man may you put your name please?"
+# user = gets
+puts ("yes of course my name is " + gets)

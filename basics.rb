@@ -4,4 +4,4 @@ puts " @Caleb in verry strong";
 puts "Caleb is 20";
 puts "Caleb like helping people";
 puts "He is in love with programming"
-puts name.include? "200"
+puts name.strip()[1]
